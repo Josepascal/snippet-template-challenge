@@ -1,6 +1,6 @@
 
 # Snipper Landing Page
-Simple landing page created with HTML and CSS.
+Simple landing page created with HTML, CSS, and JavaScript.
 
 ## Table Of Contents
 * [General-Info](#general-info)
@@ -13,3 +13,4 @@ This project is a simple landing page challenge from the Codewell website.
 Project is created with:
 * HTML
 * CSS
+* JavaScript
